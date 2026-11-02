@@ -4,3 +4,4 @@
 - 3-square.py: Square con metodo area
 - 4-square.py: Square con getter y setter de size
 - 5-square.py: Square con metodo my_print
+- 6-square.py: Square con position y __str__
