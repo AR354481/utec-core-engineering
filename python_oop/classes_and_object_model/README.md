@@ -6,3 +6,4 @@
 - 5-square.py: Square con metodo my_print
 - 6-square.py: Square con position y __str__
 - 1-rectangle.py: Rectangle con width y height validados
+- 2-rectangle.py: Rectangle con area y perimeter
